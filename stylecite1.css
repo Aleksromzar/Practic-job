@@ -1,0 +1,62 @@
+
+body{
+    background-image: url(https://avatars.mds.yandex.net/get-zen_doc/5286518/pub_60c647b6aa55f74254601078_610422a59bd3fc59f087ad06/scale_1200);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}   
+.block1{
+   background-color: rgba(218, 183, 247, 0.342);
+    height: 1400px;
+    width: 1000px;
+    position: absolute;
+    margin-left: 450px;
+    margin-right: auto;
+    margin-top: 10px;
+    
+} 
+h1{text-align: center;
+    font-family: 'Merriweather', serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 300%;
+    position: absolute;
+    
+}
+.img_2{
+   
+    
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 400px;
+}
+img{
+    height: 400px;
+    width: 720px;
+    margin-left:140px ;
+ 
+    border-radius: 50px;
+    box-shadow: 0, 10px, 0;
+}
+.img_3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 500px;
+}
+.img_4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 625px;   
+}
+.h1_main{
+    position: absolute;
+    top: 100px;
+    left: 160px;
+    color: rgb(250, 249, 220);
+}
